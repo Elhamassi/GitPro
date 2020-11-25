@@ -1,5 +1,5 @@
 <?php
 
-	echo "Hey mom";
+	echo "Hey mom and dad";
 	
 ?>
